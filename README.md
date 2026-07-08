@@ -87,7 +87,7 @@ lib/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bmi-calculator.git
+https://github.com/ankitprajapat42/bmi_calculater_app.git
 ```
 
 ### Navigate to the Project
@@ -132,12 +132,10 @@ flutter run
 
 ## 👨‍💻 Developer
 
-**Ajay Kumar**
-
+**Ankit Prajapat**
 B.Tech CSE Student  
-Flutter Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/ankitprajapat42
 
 ---
 
