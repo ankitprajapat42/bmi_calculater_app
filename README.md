@@ -9,6 +9,14 @@ A simple and elegant **BMI (Body Mass Index) Calculator** built with **Flutter**
 > Add your app screenshot inside the `screenshots` folder.
 
 ![Splash Screen](screenshorts/splash_screen.png)
+![Home Screen](screenshorts/home_screen.png)
+![Normal Result Screen](screenshorts/normal_result_screen.png)
+![UnderWeight Result Screen](screenshorts/underweight_result_screen.png)
+![OverWeight Result Screen](screenshorts/overweight_result_screen.png)
+![Obese Result Screen](screenshorts/obese_result_screen.png)
+![Aboout Screen](screenshorts/about_screen.png)
+
+
 
 ---
 
